@@ -1,6 +1,11 @@
 jsonfiles/
+CheerleaderVolume/
+RawData/
 logs/
 cheerleader.py
 .git/
 nameRank.csv
 test.py
+cheerleaders.json
+MyCheerleaderIndex.py
+
